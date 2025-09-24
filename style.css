@@ -6,17 +6,17 @@ body {
 }
 
 h1 {
-  color: darkblue;
+  color: rgb(0, 139, 69);
 }
 
 button {
   padding: 10px 20px;
   border: none;
-  background: darkblue;
+  background: rgb(177, 2, 2);
   color: white;
   border-radius: 5px;
   cursor: pointer;
 }
 button:hover {
-  background: navy;
+  background: rgb(193, 235, 9);
 }
